@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/speech-note/static/js/main.e074b6ce.chunk.js",
+    "main.js.map": "/speech-note/static/js/main.e074b6ce.chunk.js.map",
+    "runtime-main.js": "/speech-note/static/js/runtime-main.0f452d81.js",
+    "runtime-main.js.map": "/speech-note/static/js/runtime-main.0f452d81.js.map",
+    "static/js/2.41733b70.chunk.js": "/speech-note/static/js/2.41733b70.chunk.js",
+    "static/js/2.41733b70.chunk.js.map": "/speech-note/static/js/2.41733b70.chunk.js.map",
+    "static/js/3.55cb67ea.chunk.js": "/speech-note/static/js/3.55cb67ea.chunk.js",
+    "static/js/3.55cb67ea.chunk.js.map": "/speech-note/static/js/3.55cb67ea.chunk.js.map",
+    "index.html": "/speech-note/index.html",
+    "static/js/2.41733b70.chunk.js.LICENSE.txt": "/speech-note/static/js/2.41733b70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f452d81.js",
+    "static/js/2.41733b70.chunk.js",
+    "static/js/main.e074b6ce.chunk.js"
+  ]
+}
